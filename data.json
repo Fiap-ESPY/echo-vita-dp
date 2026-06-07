@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "modulo": "Alojamento A",
+    "anomalia": "Tosse repetitiva",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "modulo": "Laboratorio Botanico",
+    "anomalia": "Ruido de ventilacao anomalo",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T08:15:22Z"
+  },
+  {
+    "id": 3,
+    "modulo": "Baia de Engenharia",
+    "anomalia": "Impacto metalico",
+    "severidade": "Alta",
+    "timestamp": "2026-10-12T08:45:10Z"
+  },
+  {
+    "id": 4,
+    "modulo": "Alojamento B",
+    "anomalia": "Vocalizacao de estresse",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T09:12:05Z"
+  },
+  {
+    "id": 5,
+    "modulo": "Modulo de Comando",
+    "anomalia": "Espirro",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T09:30:00Z"
+  },
+  {
+    "id": 6,
+    "modulo": "Suporte de Vida",
+    "anomalia": "Vazamento pressurizado (Assobio)",
+    "severidade": "Critica",
+    "timestamp": "2026-10-12T09:35:12Z"
+  },
+  {
+    "id": 7,
+    "modulo": "Alojamento A",
+    "anomalia": "Tosse isolada",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T10:05:44Z"
+  },
+  {
+    "id": 8,
+    "modulo": "Baia Medica",
+    "anomalia": "Alarme de monitor cardiaco",
+    "severidade": "Alta",
+    "timestamp": "2026-10-12T10:20:15Z"
+  },
+  {
+    "id": 9,
+    "modulo": "Ginasio",
+    "anomalia": "Queda de peso (Estrondo)",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T11:00:00Z"
+  },
+  {
+    "id": 10,
+    "modulo": "Alojamento C",
+    "anomalia": "Tosse repetitiva",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T11:45:30Z"
+  },
+  {
+    "id": 11,
+    "modulo": "Laboratorio de Fisica",
+    "anomalia": "Faisca eletrica (Estalo)",
+    "severidade": "Alta",
+    "timestamp": "2026-10-12T12:10:05Z"
+  },
+  {
+    "id": 12,
+    "modulo": "Modulo de Comando",
+    "anomalia": "Vocalizacao de estresse",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T12:35:40Z"
+  },
+  {
+    "id": 13,
+    "modulo": "Suporte de Vida",
+    "anomalia": "Flutuacao de bomba de agua",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T13:00:15Z"
+  },
+  {
+    "id": 14,
+    "modulo": "Alojamento B",
+    "anomalia": "Espirro",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T13:20:50Z"
+  },
+  {
+    "id": 15,
+    "modulo": "Baia de Carga",
+    "anomalia": "Atrito de cintas",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T14:15:00Z"
+  },
+  {
+    "id": 16,
+    "modulo": "Baia de Engenharia",
+    "anomalia": "Vazamento pressurizado (Assobio)",
+    "severidade": "Critica",
+    "timestamp": "2026-10-12T14:50:22Z"
+  },
+  {
+    "id": 17,
+    "modulo": "Alojamento A",
+    "anomalia": "Tosse repetitiva",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T15:30:10Z"
+  },
+  {
+    "id": 18,
+    "modulo": "Ginasio",
+    "anomalia": "Vocalizacao de estresse",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T16:05:05Z"
+  },
+  {
+    "id": 19,
+    "modulo": "Laboratorio Botanico",
+    "anomalia": "Falha em irrigador",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T16:40:00Z"
+  },
+  {
+    "id": 20,
+    "modulo": "Modulo de Comando",
+    "anomalia": "Tosse isolada",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T17:10:15Z"
+  },
+  {
+    "id": 21,
+    "modulo": "Baia Medica",
+    "anomalia": "Choro/Vocalizacao de dor",
+    "severidade": "Alta",
+    "timestamp": "2026-10-12T17:55:30Z"
+  },
+  {
+    "id": 22,
+    "modulo": "Alojamento C",
+    "anomalia": "Espirro",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T18:20:45Z"
+  },
+  {
+    "id": 23,
+    "modulo": "Suporte de Vida",
+    "anomalia": "Ruido de filtro saturado",
+    "severidade": "Alta",
+    "timestamp": "2026-10-12T19:00:00Z"
+  },
+  {
+    "id": 24,
+    "modulo": "Baia de Engenharia",
+    "anomalia": "Impacto metalico",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T19:35:10Z"
+  },
+  {
+    "id": 25,
+    "modulo": "Alojamento A",
+    "anomalia": "Tosse repetitiva",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T20:15:22Z"
+  },
+  {
+    "id": 26,
+    "modulo": "Laboratorio de Fisica",
+    "anomalia": "Espirro",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T20:50:05Z"
+  },
+  {
+    "id": 27,
+    "modulo": "Modulo de Comando",
+    "anomalia": "Vocalizacao de fadiga",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T21:30:40Z"
+  },
+  {
+    "id": 28,
+    "modulo": "Baia de Carga",
+    "anomalia": "Descompressao subita",
+    "severidade": "Critica",
+    "timestamp": "2026-10-12T22:00:00Z"
+  },
+  {
+    "id": 29,
+    "modulo": "Alojamento B",
+    "anomalia": "Tosse isolada",
+    "severidade": "Baixa",
+    "timestamp": "2026-10-12T22:45:15Z"
+  },
+  {
+    "id": 30,
+    "modulo": "Ginasio",
+    "anomalia": "Vocalizacao de estresse",
+    "severidade": "Media",
+    "timestamp": "2026-10-12T23:20:50Z"
+  }
+]
